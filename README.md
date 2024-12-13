@@ -17,9 +17,15 @@ Dette repository indeholder koden til en WordPress-integration på det engelske 
 - Hover effekter og moderne visuel præsentation
 
 ## Anvendelse
-Koden bruger to hovedfunktioner:
-1. `[vis_nyheder cat="news-dk"]` - shortcode til visning af nyheder
-2. `[vis_olietillaeg]` - shortcode til visning af olietillæg
+Koden bruger disse hovedfunktioner:
+1.
+- `[vis_nyheder cat="news-dk"]` - Danske nyheder
+- `[vis_nyheder cat="news-eng"]` - Engelske nyheder
+- `[vis_nyheder cat="news-no"]` - Norske nyheder
+- `[vis_nyheder cat="news-se"]` - Svenske nyheder
+- `[vis_nyheder cat="news-fi"]` - Finske nyheder
+2.
+-  `[vis_olietillaeg]` - shortcode til visning af olietillæg
 
 ## Installation
 1. Kopier koden til dit WordPress-tema
