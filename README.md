@@ -1,5 +1,5 @@
 # Bachelor News Integration English site
-Code from bachelor project in WordPress
+Code from bachelor project in WordPress - English site
 
 ## Beskrivelse
 Dette repository indeholder koden til en WordPress-integration på det engelske site, der henter og viser nyheder og olietillæg fra virksomhedens danske udviklingssite til andre sites via REST API.
