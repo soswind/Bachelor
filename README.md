@@ -2,13 +2,19 @@
 Code from bachelor project in WordPress
 
 ## Beskrivelse
-Dette repository indeholder koden til en WordPress-integration der henter og viser nyheder og olietillæg fra virksomhedens danske udviklingssite til andre sites via REST API.
+Dette repository indeholder koden til en WordPress-integration på det engelske site, der henter og viser nyheder og olietillæg fra virksomhedens danske udviklingssite til andre sites via REST API.
+
+## Projekt Struktur
+- `/functions/api-integration.php`: Indeholder API integration og shortcodes
+- `/css/style.css`: Stylesheet for nyhedsvisning og olietillæg
 
 ## Funktionalitet
 - Henter nyheder fra hovedsitet via WordPress REST API
 - Henter og viser olietillæg
 - Håndterer fejl ved API-kald
 - Formaterer data til visning
+- Responsivt design med grid layout
+- Hover effekter og moderne visuel præsentation
 
 ## Anvendelse
 Koden bruger to hovedfunktioner:
